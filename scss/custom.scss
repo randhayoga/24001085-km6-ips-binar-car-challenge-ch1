@@ -1,7 +1,15 @@
-// custom variables
+// custom colors
 $primary: #5cb85f;
 $light: #f1f3ff;
 $secondary: #0d28a6;
+$link-color: #000000;
+
+// custom button
+$accordion-border-width: medium;
+$accordion-border-radius: 5px;
+$accordion-inner-border-radius: 5px;
+$accordion-button-active-bg: #ffffff;
+// How to remove the annoying color highlight???
 
 // import bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
